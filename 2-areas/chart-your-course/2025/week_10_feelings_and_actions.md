@@ -14,3 +14,9 @@ Keep track of any differences in your feelings towards them.
 ### 03.09.2025 - SUNDAY
 
 - Nothing to report for today or yesterday.
+
+### 03.10.2025 - MONDAY
+
+- This afternoon Ezequiel sent me over some silly question, or what I feel is just silly question. But
+rather than responding to him in a negative tone i responded to him in a neautral tone with just facts and data.
+I will be more mindful next time this happens.

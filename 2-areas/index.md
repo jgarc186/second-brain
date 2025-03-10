@@ -15,13 +15,13 @@ hero:
       link: /api-examples
     - theme: brand
       text: Devotional
-      link: /2-areas/chart-your-course/2025/week_10_feelings_and_actions
+      link: /2-areas/devotional/2025/mar/03.10.2025_monday.md
     - theme: brand 
       text: Frameworks 
       link: /api-examples
     - theme: brand 
       text: Gratitude
-      link: /api-examples
+      link: /2-areas/gratitude/2025/mar/03.10.2025_monday.md
 
 features:
   - title: Feature A

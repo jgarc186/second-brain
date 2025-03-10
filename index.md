@@ -13,6 +13,9 @@ hero:
     - theme: brand 
       text: Church Notes 2025 
       link: /3-resources/church-notes/elevation-church/2025/march/03.09.2025_sunday.md
+    - theme: brand 
+      text: books 
+      link: /3-resources/books/2025/algorithms-and-data-structures/chapter_9.md
 
 features:
   - title: Feature A
