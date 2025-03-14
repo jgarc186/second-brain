@@ -26,3 +26,6 @@ I will be more mindful next time this happens.
 - This afternoon I was thinking about Saketh and I decided to go and try to give him as a recommendation to the team at ThinkIQ.
 Then he started to ask me all these random questions and I was bout to get irrited but I decided to treat him like he was a really good friend
 and my feelings towards him changed. I was able to see him in a different light. So because of this I was able to give him a good recommendation.
+
+### 03.13.2025 - THURSDAY
+- Working on helping more friends to get connected with recruiters and truly enjoying the process of helping people out to land new jobs.
