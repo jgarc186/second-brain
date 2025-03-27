@@ -18,3 +18,7 @@ and competent craftsman. It has been a journey of doubt and experimentation, but
 But I said to myself this is the momennt to shine and to deliver under pressure. Sure it may not be confortable but i know that this 
 an opportunity to grow and to become a better person. This is an opportunity to gain more of their trust so that we can develop a better relationship
 and that we can work together in the future.
+
+### 03.26.2025 - Wednesday
+- Steping up and confronting a client about payment that are late, its not confortable but it is necessary. This is a challange that I have to face as a freelancer.
+
