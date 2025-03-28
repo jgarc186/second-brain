@@ -17,3 +17,6 @@ to remove any other item. pg 143
 - Second, data structures like stacks give us a new mental model for tackling problems. - pg 143
 - The undo function in a word provessor, for example, is a great use case for a stack. As the user types, we leep track of each keystroke by pushing the keystroke onto the stack. Then, when the user hits the undo key,
 we pop the most recent keystroke from the stack and eliminate it from the document. pg 143
+- Queues are common i many apploications, ranging from pirnting jobs to background workers in web applications. pg 145
+- Queues are also the perfect tool for handling asynchronous requests-they ensure that the rewuests are processed in the order in which they were received. They're also commonly used used to model real-world scenarios
+where events need to be processed in the order in which they occur, such as airplanes waitinf dor takeoff and patients waiting for their doctor. pg 147
