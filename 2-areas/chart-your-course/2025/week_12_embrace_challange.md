@@ -22,3 +22,7 @@ and that we can work together in the future.
 ### 03.26.2025 - Wednesday
 - Steping up and confronting a client about payment that are late, its not confortable but it is necessary. This is a challange that I have to face as a freelancer.
 
+### 03.27.2025 - Thursday
+- The profile exporter work with the references, it was painful to workout some of the complicated details.
+but now with this new pattern that i have found, we will be able to use it to make better xml nodesets out of our libraries
+bringing the company closer and closer to be able to have a better product and tell a better story in the market place.
