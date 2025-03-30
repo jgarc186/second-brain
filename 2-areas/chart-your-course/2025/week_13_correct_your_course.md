@@ -10,3 +10,8 @@ direction?
 ### 03.29.2025 - Saturday
 - My spelling and grammar have been very sloppy, I need to pay more attention to the details of it,
 in this way I can become a more precise communicator.
+
+### 03.30.2025 - Sunday
+- Developing the identity of a clean person, rather than letting things slide to clutter and disarray, such as unwashed dishes or disorganize bed,
+even when those things seem to be small and insignificant, they are not, they are the building blocks of a life of order and discipline.
+So I will be intentional about cleaning up after myself and keeping things in order.
