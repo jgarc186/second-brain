@@ -21,3 +21,6 @@ So I will be intentional about cleaning up after myself and keeping things in or
 that I didn't intention to deliver, I took it lightly. Now that doesn't mean that I did not deliver, I did. but If I could go back in time
 I would have been more intentional with my words and what I commit too, since I felt the pressure to deliver on my words, this has helped me 
 to put an extra hour here or there to get what I said I was going to do, to get it done.
+
+### 04.03.2025 - Thursday
+- By paying attention to my wife and what she likes and don't like. By paying attention to the details of her interests.
