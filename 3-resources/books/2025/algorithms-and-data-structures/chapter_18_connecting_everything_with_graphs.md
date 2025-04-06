@@ -16,4 +16,13 @@ Some computer scientist also refer to adjacent vertices as neighbors. pg 331
 - a graph where all the vertices are connecred in some way is said to be a connected graph. pg 331
 - Our implementation of the graph uses a simple list (in the form of an array) to store a vertex's adjancent vertices. This approach is known as the adjancency list implementation.
 However, it's good to know that there's another implementation that uses two dimensional arrays instead of lists. This alternative approach is known as the adjancency matrix. pg 334
+- The term path is an official graph term, and it means the specific sequence of edges to get from one verteex to another. pg 336
+- The two well-known approaches for a graph, which can be useful if we want to perforn ab operation on ecery vertex in the graph. pg 336
+- The two well-known approaches for graph search are depth-first search and breath-first search. Both approaches can get the job done, but each provides unique advantages in particular situations. pg 336
+- The key to any graph search algortihm is keeping track of which vertices we've visited so far. If we don't do this, we can end up in an infinite cycle. pg 337
+- One way to keep track of our visited vertices is by using a hash table. pg 337
+- Breath-first search does not use recursion. Instead the algorithm revolves around our old friend, the queue. pg 346
+- One of the main factors in determining which algorithm to use is the nature of the graph you're searching and what you're searching for. The key here, as mentioned earlier,
+is that breath-first searach traverses all the vertices closest to the starting vertex before moving farther away. Depth-first search, on the other hand, immediatly moves as far aways from the
+starting vetex as it can. only when the search hits a dead end does it return back to the sarting vertex. pg 357
 
