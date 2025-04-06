@@ -3,19 +3,15 @@
 layout: home
 
 hero:
-  name: "My Second Brain"
-  text: "A repository where I keep important docs and notesfor future reference."
-  tagline: My great project tagline
+  name: "Church Notes"
+  text: "A repository where I keep my church notes for future reference."
   actions:
     - theme: brand
-      text: ⚗️ Areas 
-      link: /2-areas
+      text: April 
+      link: /3-resources/church-notes/elevation-church/2025/4-apr/04.06.2025_sunday.md
     - theme: brand 
-      text: Church Notes 2025 
-      link: /3-resources/church-notes/elevation-church/2025/    
-    - theme: brand 
-      text: books 
-      link: /3-resources/books/2025/algorithms-and-data-structures/chapter_9.md
+      text: March 
+      link: /3-mar
 
 features:
   - title: Feature A
