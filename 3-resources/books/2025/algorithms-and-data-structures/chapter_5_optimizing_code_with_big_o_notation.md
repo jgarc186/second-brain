@@ -1,5 +1,8 @@
 # Chapter# 5 - Optimizing Code with Big O Notation
 
+- Select Sort is desceived in Bif O as O(N2), just like Bubble Sort (even when Selection sort is faster than Bubble sort). This is because of a major rule of Big O that I;m now introducing for the first time: Big O notation ignores constants. This is simply a mathematical way of saying that Big O notation never includes regular numbers that aren’t an exponent. We simply drop these regular numbers from the expression. pg 70
+- Big O notation only concens itself with general caregories of algortihm speeds. pg 72
+- As an analogy, let’s talk about physical niolfings. There are, of course, many different types of buildings. There are one-floor single-family homes, and two floor single-family homes, and three-floor single-0family homes. There are high-rise apartment buildings with varying numbers of floors. And there are skyscrapers with various heights and shapes. pg 72
 - Big O notation doesn't care merely about the number of steps an algorithm takes. It cares about the long-term
 trajectory of the algorithm's steps as the data increases. pg 73
 - when comparing two efficiencies that belong to two different categories of Big O, it's enough to identify them by
