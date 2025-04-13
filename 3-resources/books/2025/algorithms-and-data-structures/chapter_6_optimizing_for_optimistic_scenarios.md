@@ -1,5 +1,13 @@
 # Chapter 6: Optimizing for Optimistic Scenarios
 
+### Summary:
+Being able to consider all scenarios is an important skill that can help you choose the appropriate algorithm for every situation. 
+if we have an algorithm that takes N4 + N3 + N2 + N steps, we only consider N4 to be significant-and just call
+it O(N4).
+Being able to discern between best-, average-, and worst-case scenarios is a key skill in choosing the best 
+algorithm for your needs, as well as taking existing algorithms and optimizing them further to make them significantly faster.
+
+### Notes:
 - if you're prpared for the worst, things will turn out okay. pg 79
 - Being able to consider all scenarios is an important skill that can help you choose the appropriate algorithm for every situation. pg 79
 - Big O notation only takes into account the highest order of N when we have multiple orders added together. pg 87

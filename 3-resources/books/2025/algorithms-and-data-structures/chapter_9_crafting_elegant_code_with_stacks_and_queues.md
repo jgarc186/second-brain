@@ -1,5 +1,15 @@
 # Chapter 9: Crafting Elegant Code with Stacks and Queues
 
+### Summary:
+having a variaty of data structures in your programming arsenal also allows you to create code that is simplier and easier to read.
+stacks and queues are elegant tools for handling temporary data.
+most computer science literature refers to the end of the stack as its top and the beginning of the stack as its bottom.
+the stack is an example of what is known as an abstract data type-it's a ling of data stucture that is a set of theoretical rules that revolve arouhnd some other built-in data structure.
+Some implementations of sets use arrays under the hood, while other implementations use hash tables. The set itself, though, is simply a theoretical concept: it's a list of non-duplicated data elemetns.
+Queues are also the perfect tool for handling asynchronous requests-they ensure that the rewuests are processed in the order in which they were received. They're also commonly used used to model real-world scenarios
+where events need to be processed in the order in which they occur, such as airplanes waitinf dor takeoff and patients waiting for their doctor.
+
+### Notes:
 - having a variaty of data structures in your programming arsenal also allows you to create code that is simplier and easier to read. pg 133
 - stacks and queues are elegant tools for handling temporary data. pg 133
 - Temporary data is information that doesn't have any meaning after it's processed, so you can throw it away once you're done with it. pg 133  

@@ -1,5 +1,10 @@
 # Chapter 8: Blazing Fast Lookup with Hash Tables
 
+### Summary:
+data structure called a hash table, which can be used to look up data in just O(1) time.
+Hash tables are such a natural fit for paired data that we can even use them to simplify conditional logic in certain instances.
+
+### Notes:
 - data structure called a hash table, which can be used to look up data in just O(1) time. pg 113
 - taking a characters and converting them to numbers is known as hashing. pg 115
 - a hash function needs to meet only one criterion to be valid: a hash function must convert the same string to the same numbers 

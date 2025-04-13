@@ -1,5 +1,12 @@
 # Chapter 7: Big O In Everyday Code
 
+Determining the efficiency of our code is the first step in optimizing it. pg 96
+Optimizing any code from a speed of O(N3) to O(N2) would be a big win since the code becomes exponentially faster. pg 99
+
+whenever we have two distinct datasets that have to interact with each other through multiplication,
+we have to identify both sources separately when we describe the efficiency in terms of Big O.
+
+### Notes:
 - Determining the efficiency of our code is the first step in optimizing it. pg 96
 - Big O focuses primarily on worst-case scenarios. pg 96
 - classic case of O(N2) and is often what nested-loop algirithms turn out to be. pg 97

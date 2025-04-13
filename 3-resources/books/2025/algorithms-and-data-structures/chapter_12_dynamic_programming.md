@@ -1,5 +1,16 @@
 # Chapter 12 - Dynamic Programming
 
+### Summary:
+Avoiding extra recursive calls is key to keeping recursion fast.
+dynamic programming means taking a problem that could be solved recursivbely
+and ensuring that it doesn't make duplicate calls for overlapoing subproblems.
+Optiminzing an algorithm with dynamic programming is typically accomplished with one of the two techniques. The first technique is called memoization.
+memoization is a simple, but brilliant, technique dor reducing recrusive calls in cases of overlapping subproblems.
+The second technique, known as going bottom-up, is a lot less fancy and may not even seem like a technique at all. All going bottom-up means is to ditch
+recursion and use some other approach (like a loop) to solve the same problem.
+going bottom-up is often the better choicem unless the recursive solution is more intuitive.
+
+### Notes:
 - While recursion can certainly solve some problems, it can also create new ones if not used properly. In fact, recursion is often tht ecultprit behind some
 of the slowest categories of Big O, such as O(2^N). pg 185
 - Avoiding extra recursive calls is key to keeping recursion fast. pg 190

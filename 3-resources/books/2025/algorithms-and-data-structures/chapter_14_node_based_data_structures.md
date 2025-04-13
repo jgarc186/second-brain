@@ -1,5 +1,7 @@
 # Chapter 14: Node-Based Data Structures
 
+
+### Notes:
 - linked lists seems almost idetical to arrays but come with their own set of tradeoffs in efficiency that can give us performance boost for certain situations. pg 227
 - Instead of being a contiguous block of memory, the data from linked lists can be scattered across different cells throught the computer's memory. pg 228
 - Connected data that are disperesed throught memory are known as nodes. In a linked list, each node represents one item in the list. The bit question, then, is this:

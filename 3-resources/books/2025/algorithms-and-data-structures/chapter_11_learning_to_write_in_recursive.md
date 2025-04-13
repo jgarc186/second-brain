@@ -1,5 +1,16 @@
 # Chapter 11: Learning to Write in Recursive
 
+### Summary:
+there are various categoies of problems. Onve I learned an effective technique for a certain category, when I found another problem that belinged to the 
+same category, I was able to apply the same technique to solve it.
+A second area in which recursion shines is where it is agle to make a calculation based on a subproblem of the problem at hand.
+recursion shines when implementing a top-down approeach because going top-down offers a new mental strategy for tackling a problem.
+what is so great about top-diwn thinking: in a way, we can solve the problem without even knowing how to solve the problem.
+Using recursion doesn't mean that you have to elimaite loops from your code altogether! we're 
+using each tool in the way that most naturally helps is solve the problem at hand.
+While recursion is a great tool for solving a variety of problems, it can actually slow your code down a lot if you're not careful.
+
+### Notes:
 - there are various categoies of problems. Onve I learned an effective technique for a certain category, when I found another problem that belinged to the 
 same category, I was able to apply the same technique to solve it. pg 161
 - A second area in which recursion shines is where it is agle to make a calculation based on a subproblem of the problem at hand. pg 166
