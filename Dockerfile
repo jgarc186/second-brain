@@ -1,18 +1,8 @@
-# Use a lightweight Node image
-FROM node:22.3.0-alpine
-
-# Set working directory inside the container
+FROM node:22 AS node-builder
 WORKDIR /App
-
-# Copy package files and install dependencies
-COPY package*.json ./
-RUN npm ci 
-
-# Copy the rest of your VitePress docs (your .vitepress folder and docs)
 COPY . .
+RUN npm ci
+RUN npm run docs:build
 
-# Expose the port (e.g. 3000)
-EXPOSE 3000
-
-# Run VitePress dev server on all interfaces
-CMD ["npx", "vitepress", "dev", "--host", "--port", "3000"]
+FROM nginx:alpine
+COPY --from=node-builder /App/.vitepress/dist /usr/share/nginx/html
