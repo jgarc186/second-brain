@@ -1,5 +1,14 @@
 # Chapter 15: Speeding Up All the Things with Binary Search Trees
 
+### Summary:
+What do we do if we want a data structure that maintains order yet also has fast search, inserttion, and deletion? Neither an ordered array not a hash table is ideal.
+Enter the binary search tree.
+searching a binary tree has the same efficiency as binary search within an ordered array.
+To implement th esearch operation, as well as the other binary search tree opertios, we're going to make heavy use of recursion.
+If we didn't anticipate that our book list would be changing that often, an ordered array would be a suitable data structure to contain our data. However, we're 
+building an app that should be able to handle many changes in real time. If our list had millions of titles, a binary search tree may be a better choicel
+
+### Notes:
 - if we;re goihng to want our data sorted often, it would be sensible to always keep our data in sorted order in the first place so that we never need to resort it. pg 246
 - What do we do if we want a data structure that maintains order yet also has fast search, inserttion, and deletion? Neither an ordered array not a hash table is ideal.
 Enter the binary search tree. pg 248

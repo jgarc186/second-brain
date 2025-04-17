@@ -1,5 +1,14 @@
 # Chapter 14: Node-Based Data Structures
 
+### Summary:
+Connected data that are disperesed throught memory are known as nodes. In a linked list, each node represents one item in the list.
+This is the key to the linkedl list: each node also comes with a little extraa information-namely, the memory affress of th enmext node in the list.
+With linked list, howereverm insertion at the beginning od the list takes just one step-which is O(1).
+In contrast with an array, the linked list procides the flexibitily of inserting data to the front of the list without requiring the shifting of any data. pg 234
+Linked lists also shine when it comes to deletion, especially when deleting from the beginning of the list.
+Different programming languyages handle these deleted data nodes in various ways. Some will automatically detect that they're not being used and will "garbage collect" them, freeing up memory.)
+One cariant form of the linked list is the doubly linked list.
+because doubly linmked lists can insertr data at the end in O(1) time and delete data from the front in O(1) time, they ,ake the perfect underlying data structure for a queue.
 
 ### Notes:
 - linked lists seems almost idetical to arrays but come with their own set of tradeoffs in efficiency that can give us performance boost for certain situations. pg 227
