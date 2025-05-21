@@ -17,3 +17,9 @@ ability which will translate on communicating my ideas clearly and presenting to
 1) Improve my apperance (let your hair grow, improve your cloth, and higine).
 2) Improve my communication and listening skills (join toastmasters and be comminettedt to the process of becoming a competent communicator).
 3) Take my leadership skills to the next level.
+
+### Wednesday:
+- physical:
+1) Wake up early in the morning to work out in the morning before work.
+2) Buy a bike and start going out for 12 miles or more around once a week or two times a week.
+3) Go to sleep early.
