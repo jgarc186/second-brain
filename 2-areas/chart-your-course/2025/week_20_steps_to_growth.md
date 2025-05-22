@@ -23,3 +23,9 @@ ability which will translate on communicating my ideas clearly and presenting to
 1) Wake up early in the morning to work out in the morning before work.
 2) Buy a bike and start going out for 12 miles or more around once a week or two times a week.
 3) Go to sleep early.
+
+### Thursday:
+- Programming:
+1) Keep mastering algorithm and data structure.
+2) Keep mastering test driven development.
+3) Keep mastering communication skills.
