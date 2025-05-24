@@ -2,8 +2,7 @@
 Remaining in one place is just a slower way of moving in the wrong direction.
 
 ### Weekly Waypoint:
-what part of your life is stagnant? Social, physical, spiritual, economic...?
-Pick an area and write down three steps to growth. Then start doing# 1!
+what part of your life is stagnant? Social, physical, spiritual, economic...? Pick an area and write down three steps to growth. Then start doing# 1!
 (Add on #2 and #3 as the previous step becomes your norm.)
 
 ### Saturday:
@@ -29,4 +28,5 @@ ability which will translate on communicating my ideas clearly and presenting to
 - Programming:
 1) Keep mastering algorithm and data structure.
 2) Keep mastering test driven development.
-3) Keep mastering communication skills.
+3) Keep mastering communication kills.
+
