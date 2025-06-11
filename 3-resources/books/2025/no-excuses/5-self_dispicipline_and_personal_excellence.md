@@ -21,3 +21,18 @@ leave your television off when you are with your family, you will find yourself 
  If you read in your field one hour per day, that will translate into about one book per week. One book per week will translate into about fifty books per year.
  Since the average adult reads less than one nonfiction book per year, if you were to read fifty books in your field each year, do you think that would give you and edge in your 
  profession? Do you think that it would move you ahead of virtually everyone else in your business? pg 100
+- If you read fifty books per year for ten years, this would be 500 boks that woyld help you improve your productivity, performance, and income. pg 100
+- Reading one hour per day in your field will make you a national aythority in three to fice years. pg 100
+- Writing and rewriting your goals each day can give you your 1,000 percent increase in income over ten years. pg 100
+- Make a list, and set priorities on your work before you start off. pg 101
+- Choose the most important thing that you can do each day. Then, start on it first thing and then work on it until it is 100 percent comlete. your ability to focus and conceentrate, when you develop and hone it into a habit,
+all by itself, will enable you to double your productivity, performance, and output in the next month pg 101
+- The average business person who drives spends 500-1000 hours per year behind the wheel of a car. When you turn your car into a "university on wheels" or a c "mobile classroom," you get the education equivalent of one to two full-time
+university semesters as you drive around. 101
+- Ask yourself, what did I do right?" then, ask yourself, "What would I do differently?" pg 102
+- Fully 85 percent of your success will be determined by how much people like and respect you, especially in business and sales. Never miss an opporutnity to treat people well. pg 103
+- every time you learn and apply something new, your brain releases endorphins, whic make you feel happier and more excited about your future. pg 103
+- If you could wave a magic wand and become absoltely exellent in any one skill. which one skill would have the greatest impact on your eaning ability?
+Whatever your answer, set that skill as a goal, make a plan, and work on it every day. pg 104
+- Look ahead three to five years and determine the new knowledgeand skills you will need in orsr to lead your field in the future. Then start acquiring them today. pg 104
+- Select the top person in your field, the one you admire most, and use him or her as a role model for your own developnent. pg 104
