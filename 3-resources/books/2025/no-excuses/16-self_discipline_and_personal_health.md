@@ -11,4 +11,4 @@ This natural drug produced by your body can bevome addictive in a very positive 
 - not being sufficiently rested leads to orr performance, more mistakes, industrial accients, car crashes, short ter]mpers, personality problems, and many other difficutilies. pg 228
 - When you take time off from work, you allow your mental and emotional batteries to recharge. After a two or three day weeked, when you go back to work, you will be fully rested and ready to perform at your best. pg 229
 - People who are positive and optimistic usually have stronger immune systems, and as a result, they are seldon sick. They seldom get colds and flu. pg 229
-
+- set up a reward system for yourself that does not include food. pg 231
