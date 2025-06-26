@@ -1,5 +1,6 @@
 # Chapter 4: Recursion
 
+### Notes:
 - Recursion is used when it makes the solution clearer. pg 40
 - Leigh Caldwell on Stack overflow: "Lops may achieve a performance gain for your program. Recursion may achieve a performance gain for your programmer. Choose which is more important in your situation!" pg 40
 - When you write a recursive fucntion, you have to tell it when to stop recursing. That's why every recursive function has two parts: the base case, and the recursive case. pg 41

@@ -1,5 +1,6 @@
 # Chapter 1: Introduction to Algorithms
 
+### Notes:
 - If it's a list o 4  billion numbers, it takes up to 4 billion guesses. So the maximum number of guesses is the same as the size of the list. This is called linear time. pg 10
 - Binary search is different. If the list is 100 items long, it takes at most 7 guesses. If the list is 4 billion items, it takes at most 32 guesses. 
 Powerful, eh? Binary search runs in logarithmic time (or log time, as the natives call it) pg 10 

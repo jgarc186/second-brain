@@ -1,5 +1,6 @@
 # Chapter 5: Hash Tables
 
+### Notes:
 - mapping a web address to an IP address? Sounds like a perfect use case for hash tables! This process is called DNS resolution. pg 81
 - hashes are good for:
     - Modeling relationships from one thing to another thing

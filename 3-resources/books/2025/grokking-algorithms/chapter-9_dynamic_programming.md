@@ -1,5 +1,6 @@
 # Chapter 9: Dynamic Programming
 
+### Notes:
 - Dynamic programming starts by solving subproblems and builds up to solving the big problem. pg 163
 - You combine the solutions to two subproblems to solve the bigger problem. pg 170
 - Some general tips follow:

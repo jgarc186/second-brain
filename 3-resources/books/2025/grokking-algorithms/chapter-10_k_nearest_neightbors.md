@@ -1,5 +1,6 @@
 # Chapter 10: K-Nearest Neighbors
 
+### Notes:
 - the more movies you rate, the more accurately Netflix can see what other users you 're smilar to. pg 194
 - You could take the average of their ratings and get 4.2 stars.
 That's called regression. These are the two basic things you'll do with KNN- Classification and regression:

@@ -1,5 +1,6 @@
 # Chapter 2: Selection Sort
 
+### Notes:
 - Your computer looks like a giant set of drawers, and each drawer has an address. pg 23
 - If you want to store multiple items, there are two bsaic ways to do so: arrays and lists. pg 23
 - Thre ins't one right way to store items for every use case, so it's im[ortant to know the differences. pg 23

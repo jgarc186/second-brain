@@ -1,5 +1,6 @@
 # Chapter 8: Greedy Algorithms
 
+### Notes:
 - A greedy algorithm is simple: at each step, pick the optimal move. pg 144
 - Suppose you're a greedy thief. You're ina store with a knapsack, and there are all these items you can steal. But you can only take what you can fit in your kna[sack.
 The lnapsack can hold 35 pounds. 
