@@ -17,4 +17,18 @@ It's a cautious approach that ensures you learn how to use the tool correctly. N
 - There are only two types of options: call options and put options, also known as puts and calls. Evey single options strategy is a variation or combination of these two.
     - The call option gives its buyer the right, but not the obligation, to buy shares of a stock at a specified price on or before a givend date.
     - The put option gives its buyer the right, but not the obliation, to sell shares of a stock at a specefied price on or before a given data. pg 28
-
+- Put options are used to protect the value of your assets and make money when stocks fall in price. pg 41
+- Call options are how investors profit from rising stocks, but they make ten times more money than buy-and-hold. pg 41
+- An option chain is essentially a list of all the puts and calls available for the particular stock in which you are interested. pg 44
+- Options trading (the buting side) involves buying contracts that you think will increase in value. One they rise in value,
+you sell them at a higher price and pocket the difference. You can profit with them in up, down, or sideways markets. pg 49
+- you'll likely need to deposit at least $2,500 or more to open the account. That's techinically enough to start trading options,
+but I always enrouge people to begin with at least $5,00 to $20,000. You will make mistakes, so you need enough money to survive the mistakes. pg 51
+- If you already have brokerage account where you invest, you can contact them to see if they allow trading options.
+If you don't have a brokerage account, you'll want to search online to find the best options brokers. pg 51
+- I have a margin account, as it is required for the more advanced strategies I trade, but you don't need one to begin. A simple 
+cash account will suffice. pg 53
+- Request that your broker approves you for buying calls & puts. pg 53
+- You may even want to apply for the highest trading level. I prefer that method as I'd rather have the highest trading approval and not 
+need it than need it and not have it. pg 53
+- You will most likely need a mentor also because the reality is that no one succeeds on their own. pg 56
