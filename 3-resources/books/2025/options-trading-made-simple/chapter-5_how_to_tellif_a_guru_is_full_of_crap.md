@@ -8,4 +8,5 @@
     - (profit or loss / Entry price) * 100 = Percent gains
     - Example: $400 / $200 = 2 * 100 = 200% Returnon Investment (ROI)
 - You only exit after one of two things happen. You exit any time <ins>after</ins> you trade hits the 100% gain range or <ins>immediately</ins> at a 50% loss (give or take). pg 110
-
+- the more youyenter and exit the market, the more risk you are exposed to. pg 111
+- With my LEAP strategy, you may only place 1-2 trades in a year. pg 111
