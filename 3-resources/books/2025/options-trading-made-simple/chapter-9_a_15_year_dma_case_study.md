@@ -10,3 +10,4 @@ consistent significant gains are a fairy tale. Lean to be ojey with small, consi
 - patience = profits. pg 164
 - small wins and losses precede the bigger victories. And this small win/loss pattern can
 continue for years before you achieve significant success. pg 164   
+- **discipline, patience, and faith**... Having those three qualities is indeed what separates great investors from the mediocre. pg 168
