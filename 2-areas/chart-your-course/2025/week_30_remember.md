@@ -1,6 +1,6 @@
 # Week Thirty: Remember
 
-being grateful in the moment is important.
+Being grateful in the moment is important.
 It is also important to remind yourself that you are
 where you are thanks to those in your past.
 
