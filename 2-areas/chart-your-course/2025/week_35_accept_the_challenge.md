@@ -1,5 +1,4 @@
 # Week 35: Accept the Challenge
-
 People are not born great. Greatness comes as individuals respond to circumstances in their lives.
 
 ### WEEKLY WAYPOINT:

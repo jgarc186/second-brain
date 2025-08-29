@@ -1,5 +1,4 @@
 # Week Ten - Feelings and Actions
-
 Our feelings follow our actions even more than our actions follow our feelings.
 
 ### Weekly Waypoint
