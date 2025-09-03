@@ -5,7 +5,7 @@ We humans do better when we convert the natural to the ordered.
 ### Weekly Waypoint
 Pinpoint one area in your life that would benefit from more order. This might
 be anything ranging from a messy desk to  sloppy way of planning your day.
-Write it doen and each day take a baby step to improve that area.
+Write it down and each day take a baby step to improve that area.
 
 ### Video notes:
 - God build a world that was in chaos, and then brought order to it.
